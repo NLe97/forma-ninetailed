@@ -1,6 +1,6 @@
 {
   "installCommand": "pnpm install",
   "buildCommand": "pnpm --filter @workspace/forma run build",
-  "outputDirectory": "artifacts/forma/dist/public",
+  "outputDirectory": "artifacts/forma/dist",
   "framework": null
 }
