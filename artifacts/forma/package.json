@@ -10,6 +10,8 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "devDependencies": {
+    "@ninetailed/experience.js-react": "^7.0.0",
+    "@ninetailed/experience.js-plugin-preview": "^7.0.0",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.4",
     "@radix-ui/react-alert-dialog": "^1.1.7",
@@ -73,9 +75,5 @@
     "vite": "catalog:",
     "wouter": "^3.3.5",
     "zod": "catalog:"
-  },
-  "dependencies": {
-    "@ninetailed/experience.js-plugin-preview": "7.22.0-alpha.1",
-    "@ninetailed/experience.js-react": "7.22.0-alpha.1"
   }
 }
